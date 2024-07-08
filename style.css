@@ -1,0 +1,36 @@
+body{
+    background-color: bisque;
+}
+.container{
+    position: relative;
+    top: 200px;
+    left: 600px;
+    border: 20px violet solid;
+    height: 300px;
+    width: 300px;
+    padding: 40px;
+}
+img{
+    height: 100px;
+    width: 100px;
+}
+.image{
+    position: relative;
+    left: 60px;
+}
+.form{
+    position: relative;
+    top: 20px;
+    left: 30px;
+}
+.but{
+    position: relative;
+    top: 30px;
+    left: 20px;
+    text-align: center;
+    width: 100px;
+}
+.but:hover{
+    background-color: aliceblue;
+   
+}
